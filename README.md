@@ -1,8 +1,8 @@
 # ซอร์สโค้ดนี้ ใช้สำหรับเป็นตัวอย่างเท่านั้น ถ้านำไปใช้งานจริง ผู้ใช้ต้องจัดการเรื่องความปลอดภัย และ ประสิทธิภาพด้วยตัวเอง
 
-# Clinic Quotation RAG System
+# Vectorization and Indexing Pinecone
 
-This repository contains a system for building a Retrieval Augmented Generation (RAG) application focused on clinic quotations. It leverages Pinecone for vector indexing and Google Gemini for embeddings, enabling efficient retrieval of relevant information from a knowledge base to augment language model responses.
+It leverages Pinecone for vector indexing and Google Gemini for embeddings, enabling efficient retrieval of relevant information from a knowledge base to augment language model responses.
 
 ## Project Structure
 
